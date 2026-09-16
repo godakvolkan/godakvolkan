@@ -41,11 +41,6 @@ Built a shift and leave-tracking web system using React, Node.js and MongoDB.
 
 Mobile app development, Machine Learning, database management & architecture, backend architecture & scalable API design, Computer Vision, and Ruby.
 
-## GitHub Stats
-
-![Volkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=godakvolkan&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=godakvolkan&layout=compact&theme=default&hide_border=true)
-
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/volkan-godak-1997aa235/) · [X](https://x.com/gdk_vlkn) · [GitHub](https://github.com/godakvolkan)
