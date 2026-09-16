@@ -34,6 +34,7 @@ Built a shift and leave-tracking web system using React, Node.js and MongoDB.
 ## Honors
 
 🏆 TEKNOFEST 2025 Hyperloop Development Competition — Finalist
+
 🏆 TEKNOFEST 2025 Hyperloop Development Competition — Innovation Award
 
 ## Currently Learning
