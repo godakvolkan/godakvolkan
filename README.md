@@ -34,18 +34,11 @@ Built a shift and leave-tracking web system using React, Node.js and MongoDB.
 ## Honors
 
 🏆 TEKNOFEST 2025 Hyperloop Development Competition — Finalist
-
-## Selected Projects
-
-**[gui](https://github.com/godakvolkan/gui)** — Responsive corporate website for an architecture firm, built with React 19, TypeScript and Tailwind CSS, with Google Maps integration.
-
-**[surveyapi](https://github.com/godakvolkan/surveyapi)** — RESTful survey API built with Ruby on Rails, modeling five related resources (users, surveys, questions, answers, responses).
-
-**[Tamagotchi](https://github.com/godakvolkan/Tamagotchi)** — React Native (Expo) virtual pet game with a multi-stage evolution system, mini-games and an in-game economy.
+🏆 TEKNOFEST 2025 Hyperloop Development Competition — Innovation Award
 
 ## Currently Learning
 
-Backend architecture, scalable API design, and Computer Vision.
+Mobile app development, Machine Learning, database management & architecture, backend architecture & scalable API design, Computer Vision, and Ruby.
 
 ## GitHub Stats
 
