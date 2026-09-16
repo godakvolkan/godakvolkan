@@ -17,6 +17,7 @@ I build web applications with React and REST APIs with Ruby on Rails, mobile app
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## Experience
@@ -41,10 +42,6 @@ Built a shift and leave-tracking web system using React, Node.js and MongoDB.
 **[surveyapi](https://github.com/godakvolkan/surveyapi)** — RESTful survey API built with Ruby on Rails, modeling five related resources (users, surveys, questions, answers, responses).
 
 **[Tamagotchi](https://github.com/godakvolkan/Tamagotchi)** — React Native (Expo) virtual pet game with a multi-stage evolution system, mini-games and an in-game economy.
-
-**[sh-ft_system](https://github.com/godakvolkan/sh-ft_system)** — Full-stack shift management system: Ruby on Rails API, React + Vite frontend, tested end-to-end with Postman, Cypress and Cucumber (BDD).
-
-**[bilsemmgame](https://github.com/godakvolkan/bilsemmgame)** — Interactive educational web game for young children, built with React, TypeScript and the Gemini API.
 
 ## Currently Learning
 
