@@ -1,5 +1,7 @@
 # Hi, I'm Volkan Godak
 
+## About
+
 Software Engineering Student at Samsun University, focused on Full-Stack and Mobile Development.
 
 I build web applications with React and REST APIs with Ruby on Rails, mobile apps with React Native / Expo, and I'm expanding into Computer Vision and embedded systems.
